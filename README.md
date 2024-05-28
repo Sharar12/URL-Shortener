@@ -163,3 +163,5 @@ cd backend && composer dev
 MIT
 
 <!-- [2024-05-28] feat: setup URL shortening API endpoints and database schema -->
+
+<!-- [2024-05-28] feat: build URL input form and redirect handler -->

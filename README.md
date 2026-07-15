@@ -161,9 +161,3 @@ cd backend && composer dev
 ## License
 
 MIT
-
-<!-- [2024-05-28] feat: setup URL shortening API endpoints and database schema -->
-
-<!-- [2024-05-28] feat: build URL input form and redirect handler -->
-
-<!-- [2024-05-28] feat: add click analytics tracker and shortened link history -->
